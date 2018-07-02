@@ -1,0 +1,8 @@
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.Fastcmd.csprojAssemblyReference.cache
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.FastCMD.Resource.resources
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.Fastcmd.csproj.GenerateResource.cache
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.Fastcmd.csproj.CoreCompileInputs.cache
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\bin\Banana.FastCMD.exe
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\bin\Banana.FastCMD.pdb
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.FastCMD.exe
+D:\project\zhangw\Advanced.Banana\Banana.Fastcmd\obj\Debug\Banana.FastCMD.pdb
